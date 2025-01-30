@@ -23,7 +23,7 @@ export default function Header3({
           <div className="main-header">
             <div className="header-left">
               <div className="header-logo">
-                <Link className="d-flex" href="/index-3">
+                <Link className="d-flex" href="/">
                   <img
                     className="light-mode"
                     alt="Carento"
@@ -40,7 +40,7 @@ export default function Header3({
                 {/* <nav className="nav-main-menu">
                   <ul className="main-menu">
                     <li className="">
-                      <Link href="/index-3">Home</Link>
+                      <Link href="/">Home</Link>
                     </li>
 
                     <li>
@@ -53,7 +53,7 @@ export default function Header3({
                 <nav className="nav-main-menu">
                   <ul className="main-menu">
                     <li className="">
-                      <Link href="/index-3">Home</Link>
+                      <Link href="/">Home</Link>
                     </li>
 
                     <li>

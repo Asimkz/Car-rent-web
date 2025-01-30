@@ -64,7 +64,7 @@ export default function Header1({
               </div>
               <Link
                 className="btn btn-brand-2 btn-small text-dark px-3 py-2 text-xs-medium "
-                href="/index-3"
+                href="/"
               >
                 Access Now
                 <svg
@@ -123,7 +123,7 @@ export default function Header1({
                           <Link href="/index-2">Home page v2</Link>
                         </li>
                         <li>
-                          <Link href="/index-3">Home page v3</Link>
+                          <Link href="/">Home page v3</Link>
                         </li>
                       </ul>
                     </li>

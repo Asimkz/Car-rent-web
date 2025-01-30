@@ -20,7 +20,7 @@ export default function Banners2() {
                   <div className="banner-button pt-3">
                     <Link
                       className="btn btn-primary background-brand-2"
-                      href="/index-3"
+                      href="/"
                     >
                       Call Us
                       <svg
@@ -55,7 +55,7 @@ export default function Banners2() {
                     rent or sell with confidence
                   </p>
                   <div className="banner-button pt-3">
-                    <Link className="btn btn-primary bg-white" href="/index-3">
+                    <Link className="btn btn-primary bg-white" href="/">
                       Call Us
                       <svg
                         width={16}

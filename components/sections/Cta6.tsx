@@ -37,10 +37,7 @@ export default function Cta6() {
                     </ul>
                   </div>
                 </div>
-                <Link
-                  className="btn btn-primary mt-2 wow fadeInUp"
-                  href="/index-3"
-                >
+                <Link className="btn btn-primary mt-2 wow fadeInUp" href="/">
                   Call Us
                   <svg
                     width={16}

@@ -29,7 +29,7 @@ export default function Review2() {
                         The Tucson Plug-in Hybrid is easy to drive and provides
                         a sufficient all-electric range.
                       </p>
-                      <Link href="/index-3" className="btn btn-primary mt-30">
+                      <Link href="/" className="btn btn-primary mt-30">
                         Call Us
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
@@ -64,7 +64,7 @@ export default function Review2() {
                         The Tucson Plug-in Hybrid is easy to drive and provides
                         a sufficient all-electric range.
                       </p>
-                      <Link href="/index-3" className="btn btn-primary mt-30">
+                      <Link href="/" className="btn btn-primary mt-30">
                         Call Us
                         <svg
                           xmlns="http://www.w3.org/2000/svg"

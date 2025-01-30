@@ -51,7 +51,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
                       >
                         <i className="arrow-small-down"></i>
                       </span>
-                      <Link href="/index-3">Home </Link>
+                      <Link href="/">Home </Link>
                     </li>
                     {/* <li
                       className={`has-children ${

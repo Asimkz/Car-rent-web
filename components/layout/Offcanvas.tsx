@@ -11,7 +11,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
         <div className="sidebar-canvas-container">
           <div className="sidebar-canvas-head">
             <div className="sidebar-canvas-logo">
-              <Link className="d-flex" href="/index-3">
+              <Link className="d-flex" href="/">
                 <img
                   className="light-mode"
                   alt="Carento"

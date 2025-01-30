@@ -115,7 +115,7 @@ export default function Header2({
                   <nav className="nav-main-menu">
                     <ul className="main-menu">
                       <li className="">
-                        <Link href="/index-3">Home</Link>
+                        <Link href="/">Home</Link>
                       </li>
 
                       <li>
