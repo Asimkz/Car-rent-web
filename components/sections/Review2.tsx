@@ -18,7 +18,7 @@ export default function Review2() {
                   <div className="item-banner-slide-review d-flex align-items-center rounded-12">
                     <div className="ps-md-5 ps-2 position-relative z-1">
                       <span className="text-primary text-md-bold">
-                        CAR REVIEW
+                        CAR REVIEW 22
                       </span>
                       <h3 className="mt-20 mb-20 color-white">
                         Hyundai Tucson Plug-In{" "}
