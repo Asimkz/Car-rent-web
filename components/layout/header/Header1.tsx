@@ -99,12 +99,12 @@ export default function Header1({
                   <img
                     className="light-mode"
                     alt="Carento"
-                    src="/assets/imgs/template/logo-w.svg"
+                    src="/assets/imgs/template/logo-w.jpg"
                   />
                   <img
                     className="dark-mode"
                     alt="Carento"
-                    src="/assets/imgs/template/logo-w.svg"
+                    src="/assets/imgs/template/logo-w.jpg"
                   />
                 </Link>
               </div>

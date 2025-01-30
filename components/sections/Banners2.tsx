@@ -6,16 +6,15 @@ export default function Banners2() {
       <section className="section-box-banner-2 background-body py-96">
         <div className="container">
           <div className="row">
-            <div className="col-lg-6">
+            <div className="col-lg-12">
               <div className="box-banner-1 px-5 position-relative rounded-12 overflow-hidden">
                 <div className="banner-info position-relative z-1 py-5">
                   <div className="banner-title">
-                    <h5 className="text-white">Loking for a rental car?</h5>
+                    <h5 className="text-white">Leasing Solutions</h5>
                   </div>
                   <p className="banner-text text-white text-md-regular py-3">
-                    Discover your ideal rental car for every adventure,{" "}
-                    <br className="d-none d-lg-block" />
-                    whether it's a road trip or business travel
+                    We offer flexible leasing plans designed to meet your
+                    business or personal transportation needs.
                   </p>
                   <div className="banner-button pt-3">
                     <Link
@@ -43,7 +42,7 @@ export default function Banners2() {
                 </div>
               </div>
             </div>
-            <div className="col-lg-6">
+            {/* <div className="col-lg-6">
               <div className="box-banner-2 px-5 position-relative rounded-12 overflow-hidden mt-lg-0 mt-4">
                 <div className="banner-info position-relative z-1 py-5">
                   <div className="banner-title">
@@ -76,7 +75,7 @@ export default function Banners2() {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>

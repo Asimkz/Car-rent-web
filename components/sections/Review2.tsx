@@ -18,19 +18,20 @@ export default function Review2() {
                   <div className="item-banner-slide-review d-flex align-items-center rounded-12">
                     <div className="ps-md-5 ps-2 position-relative z-1">
                       <span className="text-primary text-md-bold">
-                        CAR REVIEW 22
+                        SERVICE REVIEW 22
                       </span>
                       <h3 className="mt-20 mb-20 color-white">
-                        Hyundai Tucson Plug-In{" "}
+                        Comprehensive Energy Solutions{" "}
                         <br className="d-none d-md-block" />
-                        Hybrid 2025 review
+                        for Residential & Commercial Use
                       </h3>
                       <p className="text-lg-medium color-white">
-                        The Tucson Plug-in Hybrid is easy to drive and provides
-                        a sufficient all-electric range.
+                        Our energy solutions provide seamless integration of
+                        renewable and traditional energy sources, optimizing
+                        efficiency and sustainability for your home or business.
                       </p>
                       <Link href="/" className="btn btn-primary mt-30">
-                        Call Us
+                        Contact Us
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           width={24}
@@ -54,18 +55,20 @@ export default function Review2() {
                   <div className="item-banner-slide-review banner-3 d-flex align-items-center rounded-12">
                     <div className="ps-md-5 ps-2 position-relative z-1">
                       <span className="text-primary text-md-bold">
-                        CAR REVIEW
+                        ENERGY SOLUTION
                       </span>
                       <h3 className="mt-20 mb-20 color-white">
-                        2025 Mazda CX-50 <br className="d-none d-md-block" />
-                        Review and news
+                        Cutting-Edge Smart Grid{" "}
+                        <br className="d-none d-md-block" />
+                        Integration & Services
                       </h3>
                       <p className="text-lg-medium color-white">
-                        The Tucson Plug-in Hybrid is easy to drive and provides
-                        a sufficient all-electric range.
+                        We specialize in advanced smart grid technology,
+                        offering real-time monitoring and control to enhance
+                        energy distribution and consumption efficiency.
                       </p>
                       <Link href="/" className="btn btn-primary mt-30">
-                        Call Us
+                        Contact Us
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           width={24}

@@ -9,18 +9,21 @@ export default function Cta6() {
             <div className="row align-items-center">
               <div className="col-lg-5">
                 <span className="btn btn-signin bg-2 text-dark mb-4 wow fadeInUp">
-                  Best Car Rental System
+                  What we are
                 </span>
                 <h4 className="mb-4 neutral-1000 wow fadeInUp">
-                  Sell your car at a fair price. <br />
-                  Get started with us today.
+                  We are writing a few about our history
                 </h4>
                 <p className="text-lg-medium neutral-500 mb-4 wow fadeInUp">
-                  We are committed to delivering exceptional service,
-                  competitive pricing, and a diverse selection of options for
-                  our customers.
+                  We are a pioneer in hybrid and electric fleet management,
+                  providing a diverse range of vehicles tailored to both
+                  personal and business requirements. With extensive industry
+                  experience, we have earned a reputation as a forward-thinking,
+                  customer-centric company. Our team of skilled professionals is
+                  ready to develop a personalized plan that suits your unique
+                  needs.
                 </p>
-                <div className="row">
+                {/* <div className="row">
                   <div className="col">
                     <ul className="list-ticks-green list-ticks-green-2 wow fadeInUp">
                       <li className="neutral-1000 pe-0">
@@ -36,7 +39,7 @@ export default function Cta6() {
                       </li>
                     </ul>
                   </div>
-                </div>
+                </div> */}
                 <Link className="btn btn-primary mt-2 wow fadeInUp" href="/">
                   Call Us
                   <svg

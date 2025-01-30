@@ -20,14 +20,15 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
           <div className="mobile-header-logo">
             <Link className="d-flex" href="/">
               <img
+                style={{ width: "180px", height: "auto" }}
                 className="light-mode"
                 alt="Carento"
-                src="/assets/imgs/template/logo-d.svg"
+                src="/assets/imgs/template/logo-d.png"
               />
               <img
                 className="dark-mode"
                 alt="Carento"
-                src="/assets/imgs/template/logo-w.svg"
+                src="/assets/imgs/template/logo-w.jpg"
               />
             </Link>
             <div
